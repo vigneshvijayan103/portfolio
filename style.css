@@ -69,3 +69,10 @@ html {
   color: #ff6347;
 }
 
+
+  .fs-4:hover {
+    color: #0d6efd !important;
+    transform: scale(1.1);
+    transition: all 0.2s ease-in-out;
+  }
+
